@@ -15,3 +15,6 @@ the first test on this one is fairly easy, but there are a few things to think a
 - [Check this link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments).  Scroll down to the bit about `Array.from` or the spread operator. - [Or this link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters).
   
 
+to test:
+
+jasmine removeFromArray.spec.js
